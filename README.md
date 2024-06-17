@@ -47,6 +47,7 @@ Pour commencer
 
 ![image](https://github.com/Yakkary/DE10_lite-FPGA/assets/91556921/1cdf4c9f-0cd9-410e-8c1a-49c7dc21278f)
 
+![image](https://github.com/Yakkary/DE10_lite-FPGA/assets/91556921/ec5d957d-81b0-4d67-a4df-7030e34447bd)
 
 
 Cloner le dépôt:
