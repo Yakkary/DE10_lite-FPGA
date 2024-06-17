@@ -24,6 +24,9 @@ Description: Une horloge numérique avec trois modes : chronomètre (montant), c
 Concepts clés: Comptage, gestion du temps, et configuration d'interfaces utilisateur.
 Usage: Démontre les concepts fondamentaux de la gestion du temps et de l'interaction utilisateur sur FPGA.
 
+![image](https://github.com/Yakkary/DE10_lite-FPGA/assets/91556921/3d3d82cb-5700-48d6-8850-6d72bd8337a7)
+
+
 
 
 
