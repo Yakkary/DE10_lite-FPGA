@@ -45,6 +45,9 @@ Concepts clés: Génération de graphiques, gestion des entrées utilisateur, et
 Usage: Fournit des insights sur la conception et la mise en œuvre de jeux vidéo simples sur FPGA.
 Pour commencer
 
+![image](https://github.com/Yakkary/DE10_lite-FPGA/assets/91556921/1cdf4c9f-0cd9-410e-8c1a-49c7dc21278f)
+
+
 
 Cloner le dépôt:
 
